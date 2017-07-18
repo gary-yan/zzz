@@ -1,0 +1,116 @@
+.area{
+	position: relative;
+	width: 1919px;
+	border: 1px solid #f00;
+}
+/*
+div.lunbo{
+	width: 1319px;
+	padding-left: 300px
+}*/
+
+img.onetwo{
+/*	position: absolute;;
+*/	width:1319px;
+	height: 850px;
+	text-align: center;
+	padding-left: 300px;
+}
+img.oneone{
+	position: absolute;
+	top:-200px;
+	left: -70px;	
+	width: 800px;
+}
+div.secondlinea{
+	width: 1319px;
+	padding-left: 300px
+
+}
+div.secondlineb{
+	
+	width: 1319px;
+	padding-left: 300px
+}
+div.pl{
+	float: left;
+	width:320px; 
+	height:320px; 
+	border-radius:50%; 
+	overflow:hidden;
+}
+img.two
+{
+	/*height: 233px;*/
+	/*padding-left: 24px;
+	width: 233px;
+	height: 233px;*/
+/*	width: 23.5%;
+*/ width: 325px;
+	height: 325px;
+	border-radius:50%；
+ }
+ div.big{
+ 	padding-left: 300px;
+ 	 	font-size: 40px;
+
+ }
+
+div.thirdline{
+	/*border: 1px solid #f00;*/
+}
+img.three{
+	width: 1319px;
+	padding-left: 300px
+}
+div.forthline{
+
+}
+img.fourb{
+	width: 1319px;
+	padding-left: 300px;
+}
+div.blank1{
+	height: 121px
+}
+div.fifthline{
+	width: 1319px;
+	padding-left: 300px
+
+}
+img.five{
+	width: 830px;
+	height: 650px;
+	
+}
+img.fiveb{
+	width: 470px;
+	height: 650px;
+}
+div.blank2{
+	height: 117px
+}
+div.sixthline{
+
+}
+img.six{
+	width:1319px;
+	padding-left: 300px;
+}
+div.blank3{
+	height: 124px
+}
+div.seventhline{
+	width: 1319px;
+	padding-left: 300px
+}
+img.seven{
+	height: 660px;
+	width: 325px;
+
+}
+
+div.blank3{
+	height: 124px
+}
+

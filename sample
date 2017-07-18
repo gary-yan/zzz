@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset = "utf-8" />
+	<title> 产品介绍 </title>
+	<link rel="stylesheet" type="text/css" href="test.css">
+    <!--  <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
+	<script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
+	<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+
+<body>
+<div class = "area"> 
+
+
+
+
+	<img class="onetwo" src="pics/1-2-1.jpg"> 
+	<img class ="oneone"src="pics/1-1.jpg">
+	<div class = "secondlinea">
+		<div class= "pl" >
+		<img class="two" src="pics/2-1-1.jpg">
+		</div>
+		<div class= "pl" >
+		<img class="two" src="pics/2-2-1.jpg">
+		</div>
+		<div class= "pl" >
+		<img class="two" src="pics/2-3-1.jpg">
+		</div>
+		<div class= "pl" >
+		<img class="two" src="pics/2-4-1.jpg">
+		</div>
+	</div>
+
+	</div>
+		<div class="big" >
+			<a href="big2.html"> 点击查看大图</a>
+		</div>
+	<div class = "secondlineb">
+		<div class= "pl" >
+
+			<img class = "two" src="pics/2-5-1.jpg">
+		</div>
+			<div class = "pl" >
+
+		<img class = "two" src="pics/2-6-1.jpg">
+		</div>
+					<div class = "pl" >
+
+			<img class="two" src="pics/2-7-1.jpg">
+		</div>
+						<div class = "pl" >
+
+			<img class="two" src="pics/2-8-1.jpg">
+		</div>
+		</div>
+
+		<div class="big" >
+			<a href="big.html"> 点击查看大图</a>
+		</div>
+	<div class="thirdline">
+		<img class="three" src="pics/3-1-1.jpg">
+	</div>
+	<div class="forthlinea">
+		<img class="foura" src="">
+
+
+	</div>
+
+	<div class="forthlineb">
+		<img class="fourb" src="pics/4-7-1.jpg">
+	</div>
+	<div class="blank1">
+	</div>
+	<div class="fifthline">
+		<img  class="five" src="pics/5-1-1.jpg">
+		<img class="fiveb" src="pics/5-2.jpg">
+	</div>
+	
+<div class = "blank2">
+</div>
+<div class = "sixthline" >
+	<img class="six" src="pics/6-1-1.jpg">
+</div>
+<div class = "blank2">
+</div>
+<div class="seventhline">
+	<img class="seven" src="pics/7-1.jpg">
+	<img class="seven" src="pics/7-2-1.jpg">
+	<img class="seven" src="pics/7-3-1.jpg">
+	<img class="seven" src="pics/7-4-1.jpg">
+
+
+</body>
+</html>
